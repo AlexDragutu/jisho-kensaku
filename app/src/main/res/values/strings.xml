@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Kensaku</string>
+    <string name="welcome_message">Currently defined dictionaries:\n</string>
 </resources>
